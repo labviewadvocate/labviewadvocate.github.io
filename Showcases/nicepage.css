@@ -31374,7 +31374,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 116px;
   }
 
   .u-footer .u-container-layout-1 {
@@ -31420,8 +31420,16 @@ a.u-link.u-text-hover-grey-90:hover {
     padding-right: 28px;
   }
 
+  .u-footer .u-layout-cell-2 {
+    min-height: 116px;
+  }
+
   .u-footer .u-container-layout-2 {
     padding-right: 28px;
+  }
+
+  .u-footer .u-layout-cell-3 {
+    min-height: 116px;
   }
 
   .u-footer .u-container-layout-3 {
