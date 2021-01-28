@@ -1342,7 +1342,6 @@
 
 .u-section-6 .u-custom-html-1 {
   min-height: 254px;
-  height: auto;
   width: 555px;
   margin: 149px 0 0;
 }
@@ -1372,6 +1371,7 @@
   }
 
   .u-section-6 .u-custom-html-1 {
+    height: auto;
     width: 455px;
     margin-top: 179px;
   }
