@@ -46,33 +46,39 @@
     height: 105px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 610px;
 }
 
 .u-section-2 .u-video-1 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  width: 1080px;
 }
 
 .u-section-2 .embed-responsive-1 {
   position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
 }
 
 .u-section-2 .u-video-poster-1 {
-  width: 56%;
-  left: 22%;
-  height: 56%;
-  top: 22%;
-  background-image: url(images/fll-logo-horizontal.png);
+  background-image: url("images/fll-logo-horizontal.png");
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 .u-video-1 {
+    width: 570px;
+    left: auto;
+    right: 0;
+  }
+
+  .u-section-2 .embed-responsive-1 {
+    width: 178%;
+    left: -39%;
+    height: 178%;
+    top: -39%;
+  }
+
   .u-section-2 .u-video-poster-1 {
-    width: auto;
-    height: auto;
+    width: 56%;
+    height: 56%;
   }
 }
 
@@ -86,11 +92,19 @@
   .u-section-2 .u-sheet-1 {
     min-height: 350px;
   }
+
+  .u-section-2 .u-video-1 {
+    width: 540px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
     min-height: 220px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 340px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 500px;
