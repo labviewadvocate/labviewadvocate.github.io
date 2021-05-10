@@ -34266,26 +34266,25 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-social-icons-1 {
   height: 23px;
   min-height: 16px;
-  width: 122px;
-  min-width: 94px;
+  width: 89px;
+  min-width: 68px;
   white-space: nowrap;
   margin: 34px auto 0;
 }
 
 .u-footer .u-icon-1 {
   height: 100%;
+  color: rgb(210, 34, 21) !important;
 }
 
 .u-footer .u-icon-2 {
   height: 100%;
+  color: rgb(85, 172, 238) !important;
 }
 
 .u-footer .u-icon-3 {
   height: 100%;
-}
-
-.u-footer .u-icon-4 {
-  height: 100%;
+  color: rgb(0, 137, 203) !important;
 }
 
 .u-footer .u-text-2 {
