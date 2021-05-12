@@ -34143,10 +34143,18 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-2 {
   font-size: 1rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
 }
 
 .u-header .u-nav-3 {
   font-size: 1rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-header .u-sidenav-1 {
+  width: 150px;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 .u-header .u-nav-4 {
@@ -34155,10 +34163,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-5 {
   font-size: 1rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
 }
 
 .u-header .u-nav-6 {
   font-size: 1rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
 }
 
 .u-header .u-social-icons-1 {
