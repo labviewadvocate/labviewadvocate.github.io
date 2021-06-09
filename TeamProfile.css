@@ -1299,7 +1299,8 @@
 
   .u-section-2 .u-text-3 {
     font-size: 1.25rem;
-    margin-right: 116px;
+    width: auto;
+    margin-right: 25px;
     margin-left: 0;
   }
 
@@ -1327,7 +1328,8 @@
 
   .u-section-2 .u-text-6 {
     font-size: 1.25rem;
-    margin-right: 29px;
+    width: auto;
+    margin-right: 25px;
     margin-left: 0;
   }
 
@@ -1355,7 +1357,8 @@
 
   .u-section-2 .u-text-9 {
     font-size: 1.25rem;
-    margin-right: 196px;
+    width: auto;
+    margin-right: 25px;
     margin-left: 0;
   }
 
@@ -1374,7 +1377,7 @@
   }
 
   .u-section-2 .u-group-4 {
-    min-height: 230px;
+    min-height: 261px;
     margin-top: 34px;
     margin-right: initial;
     margin-left: initial;
@@ -1383,7 +1386,8 @@
 
   .u-section-2 .u-text-12 {
     font-size: 1.25rem;
-    margin-right: 136px;
+    width: auto;
+    margin-right: 25px;
     margin-left: 0;
   }
 
@@ -1402,7 +1406,7 @@
   }
 
   .u-section-2 .u-group-5 {
-    min-height: 230px;
+    min-height: 283px;
     margin-top: 34px;
     margin-right: initial;
     margin-left: initial;
@@ -1411,7 +1415,8 @@
 
   .u-section-2 .u-text-15 {
     font-size: 1.25rem;
-    margin-right: 93px;
+    width: auto;
+    margin-right: 25px;
     margin-left: 0;
   }
 
@@ -1430,7 +1435,7 @@
   }
 
   .u-section-2 .u-group-6 {
-    min-height: 230px;
+    min-height: 283px;
     margin-top: 34px;
     margin-right: initial;
     margin-left: initial;
@@ -1439,7 +1444,8 @@
 
   .u-section-2 .u-text-18 {
     font-size: 1.25rem;
-    margin-right: 134px;
+    width: auto;
+    margin-right: 25px;
     margin-left: 0;
   }
 
@@ -1467,7 +1473,8 @@
 
   .u-section-2 .u-text-21 {
     font-size: 1.25rem;
-    margin-right: 194px;
+    width: auto;
+    margin-right: 25px;
     margin-left: 0;
   }
 
@@ -1486,7 +1493,7 @@
   }
 
   .u-section-2 .u-group-8 {
-    min-height: 230px;
+    min-height: 283px;
     margin-top: 34px;
     margin-right: initial;
     margin-left: initial;
@@ -1495,7 +1502,8 @@
 
   .u-section-2 .u-text-24 {
     font-size: 1.25rem;
-    margin-right: 99px;
+    width: auto;
+    margin-right: 25px;
     margin-left: 0;
   }
 

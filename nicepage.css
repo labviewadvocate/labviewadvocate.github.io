@@ -34658,22 +34658,32 @@ a.u-link.u-text-hover-grey-90:hover {
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
 }
 
+.u-header .u-nav-4 {
+  font-size: 1rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
 .u-header .u-sidenav-1 {
   width: 220px;
   margin-right: 0;
   margin-left: 0;
 }
 
-.u-header .u-nav-4 {
+.u-header .u-nav-5 {
   font-size: 1rem;
 }
 
-.u-header .u-nav-5 {
+.u-header .u-nav-6 {
   font-size: 1rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
 }
 
-.u-header .u-nav-6 {
+.u-header .u-nav-7 {
+  font-size: 1rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-header .u-nav-8 {
   font-size: 1rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
 }
@@ -34790,7 +34800,6 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -27px;
     margin-bottom: 19px;
     margin-left: -33px;
-    width: auto;
   }
 
   .u-header .u-logo-image-1 {
